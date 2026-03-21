@@ -17,6 +17,7 @@ Fengbin Tu is an Assistant Professor and the Associate Director of the Institute
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
    - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
    - 2025: [ISSCC](#2025-isscc), [ISCA](#2025-isca), [MICRO](#2025-micro), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [HotChips](#2025-hotchips)
+   - 2026: [HPCA](#2026-hpca)
 
 ## My Contributions
 My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
@@ -1514,3 +1515,24 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - PolymorPIC: Embedding Polymorphic Processing-in-Cache in RISC-V based Processor for Full-stack Efficient AI Inference. (Shanghai Jiao Tong University, Shanghai AI Lab)
 - MHE-TPE: Multi-Operand High-Radix Encoder for Mixed-Precision Fixed-Point Tensor Processing Engines. (USTC, University of Washington, Raytron Technology)
 - SMX: Heterogeneous Architecture for Universal Sequence Alignment Acceleration. (Barcelona Supercomputing Center, UPC, Cornell University)
+
+### 2026 HPCA
+- Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models
+- PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion
+- HR-DCIM: High-Reliability Floating-Point Digital CIM Architecture with Unified Low-Cost Iterative Error Correction
+- WATOS: Efficient LLM Training Strategies and Architecture Co-exploration for Wafer-scale Chip
+- ELORA: Efficient LoRA and KV Cache Management for Multi-LoRA LLM Serving
+- FACE: Fully Overlapped PD Scheduling and Multi-Level Architecture Co-Exploration on Wafer
+- TEMP: A Memory Efficient Physical-aware Tensor Partition-Mapping Framework on Wafer-scale Chips
+- AQPIM: Breaking the PIM Capacity Wall for LLMs with In-Memory Activation Quantization
+- MoEntwine: Unleashing the Potential of Wafer-scale Chips for Large-scale Expert Parallel Inference
+- AUM: Unleashing the Efficiency Potential of Shared Processors with Accelerator Units for LLM Serving
+- Uni-STC: Unified Sparse Tensor Core
+- PIMphony: Overcoming Bandwidth and Capacity Inefficiency in PIM-based Long-Context LLM Inference System
+- RoMe: Row Granularity Access Memory System for Large Language Models
+- VAR-Turbo: Unlocking the Potential of Visual Autoregressive Models through Dual Redundancy
+- V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval
+- CoCoTree: A Computation-Capable Architecture for Collective Communication in Scalable PIM
+- AutoGNN: End-to-End Hardware-Driven Graph Preprocessing for Enhanced GNN Performance
+- BitDecoding: Unlocking Tensor Cores for Long-Context LLMs with Low-Bit KV Cache
+- RPU: A Reasoning Processing Unit
