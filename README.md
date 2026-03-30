@@ -17,7 +17,7 @@ Fengbin Tu is an Assistant Professor and the Associate Director of the Institute
    - 2023: [ISSCC](#2023-isscc), [ISCA](#2023-isca), [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [HotChips](#2023-hotchips)
    - 2024: [ISSCC](#2024-isscc), [ISCA](#2024-isca), [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [HotChips](#2024-hotchips)
    - 2025: [ISSCC](#2025-isscc), [ISCA](#2025-isca), [MICRO](#2025-micro), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [HotChips](#2025-hotchips)
-   - 2026: [HPCA](#2026-hpca)
+   - 2026: [ISSCC](#2026-isscc), [HPCA](#2026-hpca)
 
 ## My Contributions
 My main research interest is AI chip and architecture. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/research/).
@@ -1515,6 +1515,41 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - PolymorPIC: Embedding Polymorphic Processing-in-Cache in RISC-V based Processor for Full-stack Efficient AI Inference. (Shanghai Jiao Tong University, Shanghai AI Lab)
 - MHE-TPE: Multi-Operand High-Radix Encoder for Mixed-Precision Fixed-Point Tensor Processing Engines. (USTC, University of Washington, Raytron Technology)
 - SMX: Heterogeneous Architecture for Universal Sequence Alignment Acceleration. (Barcelona Supercomputing Center, UPC, Cornell University)
+
+### 2026 ISSCC
+- AMD Instinct MI350 Series GPUs: CDNA 4-Based 3D-Stacked 3nm XCDs and 6nm IODs for AI applications
+- A Quad-Chiplet AI SoC with Full-Chip Scalable Mesh Over 16Gb/s UCIe-Advanced Die-to-Die Interface for Large-Scale AI Inferencing
+- A 71.3mJ/Frame End-to-End Driving Processor with Flexible Heterogeneous Core Orchestration via Sparsity Reasoning
+- Tiamat: A 98-to-134ms/Step Transformer-Based Diffusion Model Processor Supporting Classifier-Free Guidance for Image Generation
+- MADiC: A 3nm 7.4TOPS/mm2, 17.4TOPS/W Generative Diffusion Accelerator Enabled by Hardware-Compiler Co-Optimization of Memory Hierarchy and Operator Parallelism
+- A 0.24mJ/Frame Quadratic Interpolation 4DGS Processor with Recursive Computation Reuse and Tree-Based Parallel-Rendering
+- A 1286fps 0.39mJ/Frame Modeling/Rendering Unified 3D GS Processor with Locality-Optimized Computation and Reconfigurable Architecture
+- HYDAR: A 390K QPS, 1574K QPS/W Hybrid Analog/Digital Compute-in-RRAM Accelerator for Efficient Recommendation System
+- NVIDIA GB10: SoC Built for AI Acceleration
+- The STM32N6 Microcontroller: Enabling Intelligent Edge AI for IoT and Beyond
+- A 22nm 1.87ms/Frame Streaming Multi-Speaker ASR Accelerator Leveraging Contextual-Aware Redundancy Skipping with 2D-Writable Microscaling Compute-in-Memory and Similarity-Aware TCAM Design
+- SMoLPU: 122.1μJ/Token Sparse MoE-Based Speculative Decoding Language Processing Unit with Adaptive-Offload NPU-CIM Core
+- SpikeRAM: A 48.1pW/Synapse/Bit Event-Driven Spiking Compute-Near/In-Memory Processor with Neuromorphic Sensor Enabling Life-Long On-Chip Learning
+- A 28nm 47.3TFLOPs/W 894mJ/Inference Visual Autoregressive Accelerator with Differential-Amplifier Speculation and
+  Chain-Reaction-Like Parallel Generation
+- A 28nm 127.54TFLOPS/W MXFP6 and 117.42TFLOPS/W MXFP8 Compute-in-Memory Macro with Adaptive-Preserved-Bit-Width and Serial-Dual-Bit-Sliding Schemes
+- A 12nm 4Mb 104.56-to-137.75TFLOPS/W Charge-Trap Transistor-Based Computing-in-Memory Macro Using Analog-Predict-DigitalCompute for AI Edge Devices
+- A 22nm 96Mb 50.6-to-90.2TFLOPS/W Non-Linear MLC ReRAM CIM Macro with High-Retention for Mamba/Transformer/CNN
+- A 28nm 106.85TOPS/W and 77.68TFLOPS/W CIM Macro with Stage-Wise-Enabled Lossless Compressors Based on Sign-Bit-Embedded Transition-Counting-Lines for Edge-AI Devices
+- A 16nm 72kb 120.5TFLOPS/W Versatile-Format Dual-Representation Gain-Cell CIM Macro for General Purpose AI Tasks
+- A 16Mb 166.8TOPS/W Near-Memory Phase-Domain-Computing Ferroelectric NAND Flash for Approximate Nearest Neighbor Search on Edge Devices
+- A 1.2GHz 12.77GB/s/mm2 3D Two-DRAM-One-Logic Process-Near-Memory Chip for Edge LLM Applications
+- A 16nm, 1Mb, 1-to-8b-Configurable 444.21TOPS/W Fully Digital SRAM Compute-In-Memory Macro for Hybrid SNN-CNN Edge Computing
+- A 147TOPS/W, 250TOPS/mm2, Fully Synthesizable, Digital Compute-in-Memory Accelerator Supporting INT8×INT8 with Zero-Point Quantization in Intel 18A Technology
+- A 14.08-to-135.69Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered
+  Weight-Compression and Adaptive Parallel-Speculative-Decoding
+- Revolver: Low-Bit GenAI Accelerator for Distilled-Model and CoT with Phase-Aware-Quantization and Rotation-Based Integer-Scaled Group Quantization
+- A 51.6μJ/Token Subspace-Rotation-Based Dual-Quantized Large-Language-Model Accelerator with Fused Scale-Activation INT Datapath and Rearranged Bit-Slice LUT Computation
+- VARSA: A Visual Autoregressive Generation Accelerator Using Performance-Scalable Multi-Precision PE-LUT and Grid-Similarity Attention Compression
+- SoulMate: A 9.8mW Mobile Intelligence System-on-Chip with Mixed-Rank Architecture for On-Device LLM Personalization  
+- Tri-Oracle: A 17.78μJ/Token Vision-Language Model Accelerator with Token-Attention-Weight Redundancy Prediction
+- LUT-SSM: A 99.3TFLOPS/W LUT-Based State-Space Model Accelerator Using Energy-Efficient Element-Wise Layer Fusion and LUT-Friendly Weight-Only Quantization
+- A 28nm Speculative-Decoding LLM Processor Achieving 105-to-685μs/Token Latency for Billion-Parameter Models
 
 ### 2026 HPCA
 - Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models
